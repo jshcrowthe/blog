@@ -1,13 +1,12 @@
 ---
 title: "Setting up Polymer.js (0.5)"
-slug: "/setting-up-polymer-js-in-express"
 description: "This is the currently recommended way to manage your web components."
 date: "2015-05-03T07:12:00.000Z"
-published: true
 categories: 
   - "Polymer"
   - "Web components"
   - "boilerplate"
+published: true
 ---
 
 ## Bower

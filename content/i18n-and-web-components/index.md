@@ -1,9 +1,7 @@
 ---
 title: "Internationalization (i18n) and Polymer Web Components"
 description: "As I have been working with Web Components solving the implementation of internationalization has been a unique challenge! I figured it merited some further discussion."
-slug: "/i18n-and-web-components"
 date: "2015-05-11T01:25:44.000Z"
-published: true
 categories: 
   - "Polymer"
   - "Web components"
@@ -14,6 +12,7 @@ categories:
   - "translation"
   - "mixins"
   - "mixin"
+published: true
 ---
 
 As I have been working with Web Components solving the implementation of internationalization has been a unique challenge! I figured it merited some further discussion.

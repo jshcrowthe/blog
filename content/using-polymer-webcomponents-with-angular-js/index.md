@@ -1,14 +1,13 @@
 ---
 title: "Using Polymer WebComponents with Angular.js"
-slug: "/using-polymer-webcomponents-with-angular-js"
 description: "Polymer and Angular.js are two incredibly popular projects that are run by Google. The two projects serve different purposes yet can, with some coercion, be made to work together."
 date: "2015-05-26T02:32:34.000Z"
-published: true
 categories: 
   - "Polymer"
   - "Web components"
   - "angularjs"
   - "angular"
+published: true
 ---
 
 Polymer and Angular.js are two incredibly popular projects that are run by Google. The two projects serve different purposes yet can, with some coercion, be made to work together. Eric Bidelman, a dev from the Polymer team, made a great youtube video on this (which can be found [here](https://www.youtube.com/watch?v=p1NpZ-0Op0w)) and I wanted to give another example of the two projects working side-by-side.

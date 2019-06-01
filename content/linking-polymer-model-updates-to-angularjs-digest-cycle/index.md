@@ -1,9 +1,7 @@
 ---
 title: "Linking Polymer Model Updates to AngularJS Digest Cycle"
-slug: "/linking-polymer-model-updates-to-angularjs-digest-cycle"
 description: "A few weeks ago I wrote a post on [Using Polymer WebComponents with Angular.js. I had the opportunity to revisit the post, wanted to share my thoughts"
 date: "2015-07-13T02:24:39.000Z"
-published: true
 categories: 
   - "Polymer"
   - "angularjs"
@@ -12,6 +10,7 @@ categories:
   - "Polymer 1.0"
   - "digest"
   - "data-binding"
+published: true
 ---
 
 A few weeks ago I wrote a post on [Using Polymer WebComponents with Angular.js](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/). I had the opportunity to revisit the post and create a component that uses Polymer's [property change notification system](https://www.polymer-project.org/1.0/docs/devguide/data-binding.html#property-notification). This allows us to create a more performant version of the same codebase! 

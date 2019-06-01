@@ -9,6 +9,7 @@ categories:
   - Web Development
 
 published: true
+canonicalLink: https://medium.com/@jshcrowthe/lazy-loading-with-firebase-4-1-x-c51f67a51f56
 ---
 
 Last week the Firebase team released version 4.1.0 of the JS SDK. This minor version introduces lazy loading of the Firebase SDK.

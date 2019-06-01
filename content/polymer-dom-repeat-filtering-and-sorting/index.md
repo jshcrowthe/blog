@@ -1,9 +1,7 @@
 ---
 title: "Polymer dom-repeat filtering and sorting"
-slug: "/polymer-dom-repeat-filtering-and-sorting"
 description: "With all of the great updates that came associated with the Polymer 1.0 release, I wanted to take some time to shed light on one of my favorites."
 date: "2015-06-09T14:54:58.000Z"
-published: true
 categories: 
   - "Polymer"
   - "Web components"
@@ -11,6 +9,7 @@ categories:
   - "dom-repeat"
   - "filtering"
   - "sorting"
+published: true
 ---
 
 With all of the great updates that came associated with the Polymer 1.0 release, I wanted to take some time to shed light on one of my favorites. 

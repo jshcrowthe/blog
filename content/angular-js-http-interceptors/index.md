@@ -1,9 +1,7 @@
 ---
 title: "Angular.js (1.x) $http interceptors"
-slug: "/angular-js-http-interceptors"
 description: "I have been using Angular.js for a while now and of all of the features that exist, the one that I have the most fun using is the $http interceptor!"
 date: "2015-05-19T06:08:20.000Z"
-published: true
 categories: 
   - "angularjs"
   - "angular"
@@ -11,6 +9,7 @@ categories:
   - "HTTPInterceptors"
   - "Interceptors"
   - "XMLHttpRequest"
+published: true
 ---
 
 I have been using Angular.js for a while now and of all of the features that exist, the one that I have the most fun using is the $http interceptor!

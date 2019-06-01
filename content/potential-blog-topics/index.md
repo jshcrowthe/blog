@@ -1,10 +1,6 @@
 ---
 title: "Potential Blog Topics"
 slug: "/potential-blog-topics"
-date: "null"
-featured: false
-draft: true
-tags: []
 ---
 
 ###### Topics List:

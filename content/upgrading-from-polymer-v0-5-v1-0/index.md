@@ -1,9 +1,7 @@
 ---
 title: "Upgrading from Polymer v0.5 to v1.0"
-slug: "/upgrading-from-polymer-v0-5-v1-0"
 description: "Last week I was able to attend a Google I/O extended in Bluffdale Utah and it was awesome. There were a ton of cool things announced in the Android space but for me the best part was, by far, the announcing of Polymer 1.0!"
 date: "2015-06-01T07:02:20.000Z"
-published: true
 categories: 
   - "Polymer"
   - "Polymer v0.5"
@@ -11,6 +9,7 @@ categories:
   - "Polymer 0.5"
   - "Polymer 1.0"
   - "Migration"
+published: true
 ---
 
 Last week I was able to attend a Google I/O extended in Bluffdale Utah and it was awesome. There were a ton of cool things announced in the Android space but for me the best part was, by far, the announcing of Polymer 1.0!
