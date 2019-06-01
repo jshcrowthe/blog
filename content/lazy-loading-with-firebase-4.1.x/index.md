@@ -9,7 +9,6 @@ categories:
   - Web Development
 
 published: true
-canonicalLink: https://medium.com/@jshcrowthe/lazy-loading-with-firebase-4-1-x-c51f67a51f56
 ---
 
 Last week the Firebase team released version 4.1.0 of the JS SDK. This minor version introduces lazy loading of the Firebase SDK.
@@ -46,9 +45,6 @@ This prompt only shows 1 of the 6 javascript files we push to our CDN (i.e. [htt
 
 firebase-app.js is the only **required** file. It defines the firebase namespace, and provides the hooks for the rest of the components. You can then pick and choose which components you load (i.e. database, auth, storage, messaging) and can load them on demand as needed. Giving developers complete control.
 
-_Take a look at the following JSBin to see this in action:_
-
-[**JS Bin**  
-_A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more..._jshcrowthe.jsbin.com](http://jshcrowthe.jsbin.com/zozuqeh/35/edit?js,console "http://jshcrowthe.jsbin.com/zozuqeh/35/edit?js,console")[](http://jshcrowthe.jsbin.com/zozuqeh/35/edit?js,console)
+_Take a look at [this JSBin](http://jshcrowthe.jsbin.com/zozuqeh/35/edit?js,console) following JSBin to see this in action._
 
 You can take a look at the source code for the Firebase JS SDK on Github: [https://github.com/firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
